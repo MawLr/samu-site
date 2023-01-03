@@ -30,4 +30,12 @@ To see how an article is structured, you can view `example.md`. Click on "Raw" t
 
 #### Uploading your article
 
-Upload your article in the `content` folder. Click on the "Add file" drop down. You can choose to write a file from scratch on GitHub in your browser, or upload an existing file from your computer. Make sure the file you upload is a `.md` file. In other words your file should look like this: `writing-and-submitting.md`. If you are creating the file in GitHub you can just annotate your file name with `.md`. If you are uploading the file from your computer you must edit the file name's extention to `.md`. At the bottom of the page you can click the "Sign off and commit changes" button to send you article for review.
+Upload your article in the `content` folder. Click on the "Add file" drop down. You can choose to write a file from scratch on GitHub in your browser, or upload an existing file from your computer. Make sure the file you upload is a `.md` file. In other words your file should look like this: `writing-and-submitting.md`. If you are creating the file in GitHub you can just annotate your file name with `.md`. If you are uploading the file from your computer you must edit the file name's extention to `.md`. At the bottom of the page click the "Sign off and commit changes" button.
+
+### Step 5: Compare and Pull
+
+Click on the "Compare and pull request". On the "Open a pull request" page you can mark one of the Reviewers for a review on your article in the panel on the right. You can also leave any relavent comments here. When you are finished click the "Create pull request" button. 
+
+### Final remarks
+
+If your article have the correct syntax and follow the guidelines, it will be added to the [site](https://southafricanminorityunion.com//).
