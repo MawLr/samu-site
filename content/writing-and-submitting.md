@@ -6,38 +6,28 @@ author: "Hennie"
 ---
 
 
-## Writing and submitting an Article
-
 Here follows a step by step guide on how to format and submit your article. 
 
 ### Step 1: Create an account
 
 Create a GitHub account. After you created an account you will find the project [here](https://github.com/MawLr/samu-site)
 
+### Step 2: Fork the repositry
 
-### Step 2 Fork the repositry
+In the top right corner of the page, there is three buttons, one of them labeled "Fork". Click on the drop down arrow and click on "Create new fork". A page will open up with the heading "Create a new fork". Keep everything as is and click on the button at the bottom labeled "Create fork". Now you should have your own Fork. You will know this by looking at the top left of the page. If everything is correct, it should say `your_username/samu-site`.
 
-In the top right corner of the page, there is three buttons, one of them labeled "Fork". Click on the drop down arrow and click on "Create new fork".
-A page will open up with the heading "Create a new fork". Keep everything as is and click on the button at the bottom labeled "Create fork".
-Now you should have your own Fork. You will know this by looking at the top left of the page. If everything is correct, it should say `your_username/samu-site`.
+### Step 3: Create another branch
 
+Click on the top left dropdown called "master". In the search type the name of your article. It should have no capital letters and the spaces should be replaced with `-`. Example: `writing-and-submitting`. Click on "Create branch..."
 
-### Step 3 Upload your article
+### Step 4: Writing an article
 
-Please make sure your article follows the Contribution Guidelines. You can find it in the `README.md` file on the project page.
-If your article does not follow the Guidelines it will be rejected. Admins will not fix your article for you.
+Please make sure your article follows the Contribution Guidelines. You can find it in the `README.md` file on the project page.If your article does not follow the Guidelines it will be rejected. Admins will not fix your article for you.
 
-#### Article Syntax
+#### Article syntax
 
-To see how an article is structured, you can view `example.md`. Click on "Raw" to see how the syntax is used in text form. 
-It is recommended to copy and paste from the example file. 
-For a syntax guide you can click [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+To see how an article is structured, you can view `example.md`. Click on "Raw" to see how the syntax is used in text form. It is recommended to copy and paste from the example file. For a syntax guide you can click [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Name your article the same as your branch you created with the exact same syntax and add `.md` at the end, (ex. `writing-and-submitting.`).
 
+#### Uploading your article
 
-Make sure the file you upload is a `.md` file. In other words your file should look like this: `test.md`
-If you are creating the file in GitHub you can just annotate your file name with `.md`
-If you are uploading the file from your computer you must edit the file name's extention to `.md`
-
-### Final notes
-
-WIP
+Upload your article in the `content` folder. Click on the "Add file" drop down. You can choose to write a file from scratch on GitHub in your browser, or upload an existing file from your computer. Make sure the file you upload is a `.md` file. In other words your file should look like this: `writing-and-submitting.md`. If you are creating the file in GitHub you can just annotate your file name with `.md`. If you are uploading the file from your computer you must edit the file name's extention to `.md`. At the bottom of the page you can click the "Sign off and commit changes" button to send you article for review.
