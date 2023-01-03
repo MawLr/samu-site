@@ -65,6 +65,16 @@ h2 {
 	text-align: center ;
 }
 
+h3 {
+	color: #395488 ;
+	text-align: center ;
+}
+
+h4 {
+	color: #506385 ;
+	text-align: center ;
+}
+
 footer {
 	text-align: center ;
 	border-style: solid ;
@@ -105,6 +115,8 @@ footer {
 #tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ;}
 #tag_afrikaans:before { content: "🟧" ;}
 #tag_german:before { content: "🇩🇪" ;}
+#tag_military:before { content: "⚔️" ;}
+#tag_help:before { content : "🆘" ;}
 
 .socialscontainer {
     display: flex ;
