@@ -41,7 +41,11 @@ Upload your article in the `content` folder. Click on the "Add file" drop down. 
 
 ### Step 5: Compare and Pull
 
-Click on the "Compare and pull request". On the "Open a pull request" page you can mark one of the Reviewers for a review on your article in the panel on the right. You can also leave any relavent comments here. When you are finished click the "Create pull request" button. 
+Click on the "Compare and pull request". On the "Open a pull request" page you can mark one of the Reviewers for a review on your article in the panel on the right. You can also leave any relavent comments here. When you are finished click the "Create pull request" button.
+
+![writing-and-submitting-04](/pix/writing-and-submitting-04.webp)
+
+![writing-and-submitting-05](/pix/writing-and-submitting-05.webp)
 
 ### Final remarks
 
