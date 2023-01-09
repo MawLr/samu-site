@@ -17,9 +17,13 @@ Create a GitHub account. After you created an account you will find the project 
 
 In the top right corner of the page, there is three buttons, one of them labeled "Fork". Click on the drop down arrow and click on "Create new fork". A page will open up with the heading "Create a new fork". Keep everything as is and click on the button at the bottom labeled "Create fork". Now you should have your own Fork. You will know this by looking at the top left of the page. If everything is correct, it should say `your_username/samu-site`.
 
+![writing-and-submitting-01](/pix/writing-and-submitting-01.webp)
+
 ### Step 3: Create another branch
 
 Click on the top left dropdown called "master". In the search type the name of your article. It should have no capital letters and the spaces should be replaced with `-`. Example: `writing-and-submitting`. Click on "Create branch..."
+
+![writing-and-submitting-02](/pix/writing-and-submitting-02.webp)
 
 ### Step 4: Writing an article
 
@@ -33,9 +37,15 @@ To see how an article is structured, you can view `example.md`. Click on "Raw" t
 
 Upload your article in the `content` folder. Click on the "Add file" drop down. You can choose to write a file from scratch on GitHub in your browser, or upload an existing file from your computer. Make sure the file you upload is a `.md` file. In other words your file should look like this: `writing-and-submitting.md`. If you are creating the file in GitHub you can just annotate your file name with `.md`. If you are uploading the file from your computer you must edit the file name's extention to `.md`. At the bottom of the page click the "Sign off and commit changes" button.
 
+![writing-and-submitting-03](/pix/writing-and-submitting-03.webp)
+
 ### Step 5: Compare and Pull
 
-Click on the "Compare and pull request". On the "Open a pull request" page you can mark one of the Reviewers for a review on your article in the panel on the right. You can also leave any relavent comments here. When you are finished click the "Create pull request" button. 
+Click on the "Compare and pull request". On the "Open a pull request" page you can mark one of the Reviewers for a review on your article in the panel on the right. You can also leave any relavent comments here. When you are finished click the "Create pull request" button.
+
+![writing-and-submitting-04](/pix/writing-and-submitting-04.webp)
+
+![writing-and-submitting-05](/pix/writing-and-submitting-05.webp)
 
 ### Final remarks
 
