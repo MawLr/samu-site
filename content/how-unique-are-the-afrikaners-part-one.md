@@ -17,9 +17,9 @@ Afrikaner is now unique to the world.
 Despite this solitude, this begs the question as to whether other ethnic groups in the world share the Afrikaner’s situation. This series will shed some light on other
 groups who by luck, may find some empathy for the Afrikaner due to facing similar circumstances. Namely, this article series will focus on groups that are political minorities in their homelands, are envied by the majority population in their nations, and face an uncertain future. 
 
-![how-unique-are-the-afrikaners-part-one-01](/pix/how-unique-are-the-afrikaners-part-one-01.webp)
-
-*Caldoches are known for their affinity for guns*
+| ![how-unique-are-the-afrikaners-part-one-01](/pix/how-unique-are-the-afrikaners-part-one-01.webp "Caldoches are known for their affinity for guns") |
+|:--:|
+| *Caldoches are known for their affinity for guns* |
 
 While no group currently shares a similarly precarious situation to the Afrikaners, the first group to be examined may be the most similar. These are the Caldoches of 
 New Caledonia, and the subject of the first article. The Caldoches are a White French-speaking people who inhabit the Polynesian territory of New Caledonia. While New 
@@ -46,6 +46,6 @@ Kanak birth rates, while higher than Europeans, are counteracted by continual mi
 a benefactor in Europe, and demographics on their side. However, in contrast to Afrikaners, this fact also means that in the case of independence, they may be as 
 likely to flee to France as the Pied Noir. However, unlike the Pied Noir, they are armed to the teeth, and willing to defend their homes if independence is forced on them. Their demographics (with 24% of the population), may also make attempts to dispossess them less likely than if their numbers were fewer.
 
-![how-unique-are-the-afrikaners-part-one-02](/pix/how-unique-are-the-afrikaners-part-one-02.webp)
-
-*French President Macron posing with a Kanak during an anti-independence rally*
+| ![how-unique-are-the-afrikaners-part-one-02](/pix/how-unique-are-the-afrikaners-part-one-02.webp) |
+|:--:|
+| *French President Macron posing with a Kanak during an anti-independence rally* |

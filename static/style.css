@@ -110,6 +110,11 @@ footer {
 	#artlist { column-count: 3 ;}
 }
 
+table { 
+	margin-right: auto;
+	margin-left: auto;
+}
+
 #tag_announcements:before { content: "📯" ;}
 #tag_dutch:before { content: "🇳🇱" ;}
 #tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ;}
