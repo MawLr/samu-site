@@ -168,7 +168,7 @@ As stated before, most of these self-proclaimed neo-pagans are nothing but athei
 Whenever you have misfortune of being in a conversation with a neo-pagan, ask them: do you really 
 believe in x or y? Watch them immediately shrink down and claim whatever you're asking is merely 
 "a construct", or "a poetic exposition" and declare that they even quite obviously have no true faith 
-in their supposed religion. The author does not don't blame them, unless one would venture to 
+in their supposed religion. The author does not blame them, unless one would venture to 
 believe that Loki, brother of Thor, gave birth to Sleipnir as it is said: Loki had "such dealings" with 
 Svaðilfari that "somewhat later" Loki gave birth to a grey foal with eight legs; the horse Sleipnir, 
 "the best horse among gods and men."
