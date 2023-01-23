@@ -75,7 +75,7 @@ redundancy of debate meets its predictable conclusion.
 Are we supposed to believe that our neo-pagan colleagues "favor ethnic religions", or advocate for 
 "blood and soil" and the like, but yet can borrow the faith of India? Would our hyper Calvinist great 
 grandparents truly appreciate communing our faith with that of India, and our forefathers who 
-fought at Bloor River, Majuba and the battle of Spioen Kop in particular? Could these faiths perhaps 
+fought at Blood River, Majuba and the battle of Spioen Kop in particular? Could these faiths perhaps 
 be our roots, and those roots that carried our families on the great trek in particular?
 
 ### Where did these ideas come from?
@@ -160,7 +160,7 @@ Would it then be ridiculous to ask if Odin worshippers were traitors to their Su
 ancestors? Or if moon worshippers would be traitors to the invocation of Freya? It’s worth noting 
 that even in Greek paganism the lack of worship and veneration to certain gods had dire 
 consequences for Greek heroes on their adventures, so the idea that there had been, even in Pagan 
-times, timeless and outright loyalty to a specific deity is ridiculous
+times, timeless and outright loyalty to a specific deity is ridiculous.
 
 ### Myth of belief
 
